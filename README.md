@@ -39,8 +39,3 @@ python main.py "Cuéntame algo" --stream
 ```bash
 pytest tests/ -v
 ```
-
----
-
-Este repositorio es material de ejercicio del curso **IA generativa en el desarrollo de software**.
-Sigue las instrucciones del ejercicio en [`ejercicio_claude_md.md`](./ejercicio_claude_md.md).
