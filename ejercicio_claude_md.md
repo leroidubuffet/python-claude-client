@@ -93,7 +93,7 @@ Una vez que la aplicación esté corriendo, responde esta pregunta mirando el CL
 
 ### Paso 4. Revisión de código sin reglas propias
 
-Con la aplicación funcionando, pide una revisión del código:
+Una vez has comprobado que la aplicación funciona pide una revisión del código:
 
 ```
 /code-review
